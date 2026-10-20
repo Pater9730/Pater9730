@@ -38,11 +38,11 @@ Tecnologías: C#, .NET 8, ASP.NET Core, Clean Architecture, JWT.
 
 💰 Proyecto - Seguimiento de gastos
 
-API backend para la gestión de gastos personales, desarrollada con .NET 8. Utiliza Dapper para el acceso a datos y aplica principios de Domain-Driven Design, junto con CQRS y MediatR, para organizar la lógica de negocio y el procesamiento de operaciones.
+API backend para la gestión de gastos personales, desarrollada con .NET 8. Utiliza Dapper para el acceso a datos y aplica principios de CQRS y MediatR, para organizar la lógica de negocio y el procesamiento de operaciones.
 
 El proyecto busca mantener una estructura clara y facilitar la evolución de las funcionalidades relacionadas con el registro y seguimiento de gastos.
 
-Tecnologías: C#, .NET 8, Dapper, DDD, CQRS, MediatR.
+Tecnologías: C#, .NET 8, Dapper, CQRS, MediatR.
 
 🔗 Repositorio: https://github.com/Pater9730/Proyecto-Seguimiento-de-gastos
 
