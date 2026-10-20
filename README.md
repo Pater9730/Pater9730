@@ -62,7 +62,7 @@ Tecnologías: C#, ASP.NET Core, Entity Framework Core, SQL Server, Identity, JWT
 
 Conoce más sobre mi perfil, mis habilidades y los proyectos que he desarrollado.
 
-🔗 arnovil-dev.netlify.app
+🔗 https://arnovil-dev.netlify.app
 
 🐙 GitHub
 
